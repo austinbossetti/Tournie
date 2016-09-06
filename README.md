@@ -1,4 +1,9 @@
-Instructions:
+# Tournie
+>Stream panel for currently Super Smash Bros. Melee. Other games, and html5 support coming soon.
+
+![Alt text](http://i.imgur.com/SUawP6m.png "Program")
+
+## Instructions:
 
 1. All text files are located in the folder "textstream".
 2. All character images are located in the folder "images\output".
@@ -7,6 +12,4 @@ For images:
 	OBS: Use the Image option for each image.
 	XSplit: Use the Image Slideshow option for each image.
 
-![Alt text](http://i.imgur.com/SUawP6m.png "Program")
-
-See LICENSE for further information.
+**See LICENSE for further information.**
