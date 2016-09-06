@@ -7,4 +7,6 @@ For images:
 	OBS: Use the Image option for each image.
 	XSplit: Use the Image Slideshow option for each image.
 
+![Alt text](http://i.imgur.com/SUawP6m.png "Program")
+
 See LICENSE for further information.
